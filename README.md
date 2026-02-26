@@ -2,8 +2,7 @@
 
 **About Me**
 
-- 🔭 Currently developing flutter applications at Swiss Analytica (https://swissanalytica.ch)
-- 🌱 Currently studying Flutter and React( sometimes )
+- 🔭 Currently developing flutter applications at Diletta Solutions (https://dilettasolutions.com)
 - 👯 I’m looking to collaborate on any project that my skills can be useful
 - 📫 How to reach me: email me at felipemingotide@gmail.com
   
