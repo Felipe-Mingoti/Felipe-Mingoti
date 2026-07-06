@@ -1,51 +1,77 @@
-### Iooow! I'm Mingoti, a web and moblile developer! 👋
+# Hi, I'm Felipe Mingoti 👋
 
-**About Me**
+### Software Engineer specializing in Mobile Applications
 
-- 🔭 Currently developing flutter applications at Diletta Solutions (https://dilettasolutions.com)
-- 👯 I’m looking to collaborate on any project that my skills can be useful
-- 📫 How to reach me: email me at felipemingotide@gmail.com
-  
-  
-**Tools and programming languages:**  
+I build secure and reliable mobile applications with a strong focus on **Flutter**, **Android** and **native integrations**.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-  <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-</div>
+Over the past few years I've worked on products for **fintech**, **healthcare** and **digital identity**, implementing solutions involving **FIDO2**, **Passkeys**, **biometric authentication**, **MFA**, native Android development and scalable mobile architectures.
 
-<br />
+I'm currently pursuing a Bachelor's degree in **Statistics** at the **University of Campinas (UNICAMP)**, where I'm expanding my knowledge in mathematics, probability and data analysis to combine Software Engineering, Artificial Intelligence and data-driven decision making.
 
+---
 
-| <a href="https://github.com/m1ng0D/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=m1ng0D&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Mingoti-stats" /></a> | <a href="https://github.com/m1ng0D/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m1ng0D&layout=compact&theme=dark&hide_border=true" /></a> |
-| ------------- | ------------- |
+## 🚀 Current Focus
 
-##
+- 📱 Building secure mobile applications with Flutter
+- 🔐 Mobile Security (FIDO2, Passkeys & Biometrics)
+- 🤖 AI-powered products
+- 📊 Statistics & Data Science
+- 🏗️ Software Architecture
 
+---
 
-<div align="center"> 
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/femingoti___/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/m1ngoti" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:feminde22@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/felipe-mingoti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+## 🛠️ Tech Stack
 
-<!--
-**Felipe-Mingoti/Felipe-Mingoti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages
 
-Here are some ideas to get you started:
+<p>
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/>
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/>
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+### Mobile
 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"/>
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
+</p>
+
+### Other Technologies
+
+<p>
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+</p>
+
+---
+
+## 📌 Featured Projects
+
+🚧 **Escreva-me** (https://escreva-me.com)
+
+AI-powered SaaS platform for personalized newsletters using Large Language Models.
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Felipe-Mingoti&show_icons=true&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Mingoti&layout=compact&hide_border=true"/>
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p>
+<a href="mailto:felipemingotide@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/felipe-mingoti/">
+<img src="https://img.shields.io/badge/LinkedIn-Felipe%20Mingoti-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+</p>
